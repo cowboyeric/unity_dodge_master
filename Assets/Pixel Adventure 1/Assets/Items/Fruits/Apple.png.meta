@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 1ddc9afd21fec77489b1248d18f31b68
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155360
+  packageName: Pixel Adventure 1
+  packageVersion: 
+  assetPath: Assets/Pixel Adventure 1/Assets/Items/Fruits/Apple.png
+  uploadId: 0
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -99,7 +106,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 2
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -583,10 +590,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 155360
-  packageName: Pixel Adventure 1
-  packageVersion: 
-  assetPath: Assets/Pixel Adventure 1/Assets/Items/Fruits/Apple.png
-  uploadId: 0
