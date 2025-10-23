@@ -564,7 +564,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e580f0779a37347dc83fb09841bc8fb9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefab: {fileID: 7930126877223676222, guid: d2920bd52e4bc44049a82e230f3ed73e, type: 3}
+  obstaclePrefabMode1: {fileID: 7930126877223676222, guid: d2920bd52e4bc44049a82e230f3ed73e, type: 3}
+  obstaclePrefabMode2: {fileID: 4057355641685472909, guid: 07d66062e06174ac9972ff31380591ba, type: 3}
   spawnRate: 1.2
 --- !u!4 &534892038
 Transform:
@@ -1050,7 +1051,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a57a92ebfe554e54be50e627650daa0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToPool: {fileID: 7930126877223676222, guid: d2920bd52e4bc44049a82e230f3ed73e, type: 3}
+  obstaclePrefabMode1: {fileID: 7930126877223676222, guid: d2920bd52e4bc44049a82e230f3ed73e, type: 3}
+  obstaclePrefabMode2: {fileID: 4057355641685472909, guid: 07d66062e06174ac9972ff31380591ba, type: 3}
   amountToPool: 10
 --- !u!4 &878122754
 Transform:
